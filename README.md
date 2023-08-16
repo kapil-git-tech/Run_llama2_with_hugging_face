@@ -8,6 +8,10 @@
 
 [View the Notebook on GitHub repository](https://github.com/kapil-git-tech/Run_llama2_with_hugging_face/blob/main/guide-to-run-llama2-using-hugging-face.ipynb)
 
+The notebook also shows a comparison between llama 2 7b & ChatGTP for the below prompt:
+"My favourite movie is The Departed. Can you recommend me other similar movies i might like?"
+(Return only 5 sequences with max length = 100)
+
 The notebook was originally created in Kaggle. 
 
 [Notebook location](https://www.kaggle.com/kapilstp84/guide-to-run-llama2-using-hugging-face)
